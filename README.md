@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Avrodipsaha
-- 👀 I’m interested in Object Base company .
-- 🌱 I’m currently learning DSA in java
-- 💞️ I’m looking to collaborate on java
+- 👀 I’m interested in Learing new Technologys .
+- 🌱 I’m currently learning DSA in java .
+- 💞️ I’m looking to collaborate on startUps .
 - 📫 How to reach me avrodipsaha1111@gmail.com
 
 <!---

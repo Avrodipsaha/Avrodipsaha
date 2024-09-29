@@ -1,10 +1,14 @@
--:raising_hand_man: Hello , I am Avrodip Saha
-- :man_technologist: I have expertise in JAVA, JAVASCRIPT, REACT JS, REDUX, NODE JS,MYSQL,BOOTSTRAP, TAILWIND, MATERIAL UI, GIT AND GITHUB.
-- 
-- :man_student: I’m currently doing "Coding Boot-Camp Internship" in Full Stack Web-Development.
--   During this coding Boot-Camp, I am working in various type of projects using  HTML , CSS ,JavaScript and React js .
--   
-- :compass: Now I am looking for an opportunity where I can use my web-Development expertise with good problem solving skills in an innovative "Organization".
+Hi, I am Avrodip, and I have 3 years of experience as a software engineer. My expertise includes:
+
+Frontend Technologies: React JS, Next JS, JavaScript, TypeScript, SCSS, HTML
+Backend Technologies: Core Java, C++, Node Js, Express JS
+Database: MongoDB, MySQL, PostgraySQL
+Accessibility: Ensuring web and mobile applications are accessible to all users
+Professional Experience
+Syren Cloud Technologies: Worked on various projects, enhancing my skills in [specific technologies or projects].
+Zen3 Infosolution (Tech Mahindra): Contributed to [specific projects or roles], gaining valuable experience in [specific areas].
+Microsoft (Client): Played a significant role in the Microsoft EDU project, which enhanced my knowledge in TypeScript, React JS, Next JS, JavaScript, SCSS, Fluent UI, and Playwright.
+Currently, I am working as a Team Lead at Waferwire Cloud Solution, collaborating with Microsoft on various projects.
 - 📫 How to reach me avrodipsaha.official@gmail.com .
 
 <!---

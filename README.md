@@ -29,10 +29,10 @@ I have 3 years of experience as a software engineer, specializing in both fronte
 ### 💼 Professional Experience
 
 **Syren Cloud Technologies:**
-- Worked on various projects, enhancing my skills in [specific technologies or projects].
+- Worked on various projects, enhancing my skills in React Js, CSS, HTML, Accessibility.
 
 **Zen3 Infosolution (Tech Mahindra):**
-- Contributed to [specific projects or roles], gaining valuable experience in [specific areas].
+- Contributed to Microsoft project as lead role, gaining valuable experience in Azure clound, Typescrit, Unit test, Fluent Ui, Time management, Node Js, Express JS, MongoDB.
 
 **Microsoft (Client):**
 - Played a significant role in the Microsoft EDU project, which enhanced my knowledge in TypeScript, React JS, Next JS, JavaScript, SCSS, Fluent UI, and Playwright.
